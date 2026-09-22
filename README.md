@@ -1,5 +1,7 @@
 # Arch-blueprint
-Here is the structured Core Architecture Blueprint for your dual-stage platform. This layout maps the exact data flow, algorithmic interfaces, and physical-to-digital boundaries of the system.        [ STEP 1: PATIENT INPUTS ]
+Here is the structured Core Architecture Blueprint for your dual-stage platform. This layout maps the exact data flow, algorithmic interfaces, and physical-to-digital boundaries of the system.      
+       
+       [ STEP 1: PATIENT INPUTS ]
          ├── Clinical CBC Panel (Hematocrit φ)
          └── Single-Cell RNA-seq Matrix
                        │
